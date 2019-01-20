@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51ed5162-723c-44ef-ac16-5f57ce5f8b56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.op1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.op1/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="14195958-6e0c-47d2-bb59-d979ea6981cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,25 +10,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ControllerMakesPoints.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-              <folding>
-                <marker date="1547945171317" expanded="false" signature="6:78" ph="..." />
-                <marker date="1547945171317" expanded="true" signature="130:282" ph="{...}" />
-                <marker date="1547945171317" expanded="true" signature="211:218" ph="{...}" />
-                <marker date="1547945171317" expanded="true" signature="273:280" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/ImportGltf.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
+            <state relative-caret-position="-670">
               <caret line="985" selection-start-line="985" selection-end-line="985" />
               <folding>
                 <marker date="1540915653000" expanded="true" signature="0:609" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
@@ -295,12 +278,8 @@
       </file>
     </leaf>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/ImportGltf.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ControllerMakesPoints.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -313,31 +292,17 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="UnityExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Packages" type="4e2708dd:PackagesRoot" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
     </panes>
@@ -380,17 +345,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51ed5162-723c-44ef-ac16-5f57ce5f8b56" name="Default Changelist" comment="" />
-      <created>1547945467616</created>
+      <changelist id="14195958-6e0c-47d2-bb59-d979ea6981cd" name="Default Changelist" comment="" />
+      <created>1547945693432</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547945467616</updated>
-      <workItem from="1547945472390" duration="673000" />
+      <updated>1547945693432</updated>
+      <workItem from="1547945694608" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="673000" />
+    <option name="totallyTimeSpent" value="715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,6 +368,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
@@ -454,22 +420,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/ControllerMakesPoints.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <marker date="1547945171317" expanded="false" signature="6:78" ph="..." />
-            <marker date="1547945171317" expanded="true" signature="130:282" ph="{...}" />
-            <marker date="1547945171317" expanded="true" signature="211:218" ph="{...}" />
-            <marker date="1547945171317" expanded="true" signature="273:280" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/ImportGltf.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
+        <state relative-caret-position="-670">
           <caret line="985" selection-start-line="985" selection-end-line="985" />
           <folding>
             <marker date="1540915653000" expanded="true" signature="0:609" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
