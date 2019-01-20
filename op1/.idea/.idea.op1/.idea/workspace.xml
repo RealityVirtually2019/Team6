@@ -276,13 +276,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/changeColorOnEnter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="255">
               <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
-                <marker date="1547959561786" expanded="false" signature="6:78" ph="..." />
+                <marker date="1547959561786" expanded="false" signature="6:94" ph="..." />
                 <marker date="1547959561786" expanded="true" signature="143:743" ph="{...}" />
                 <marker date="1547959561786" expanded="true" signature="260:360" ph="{...}" />
                 <marker date="1547959561786" expanded="true" signature="379:488" ph="{...}" />
@@ -297,32 +297,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/fishSwimAway.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="240">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <marker date="1547955321847" expanded="false" signature="6:78" ph="..." />
-                <marker date="1547955321847" expanded="true" signature="121:958" ph="{...}" />
-                <marker date="1547955321847" expanded="true" signature="297:318" ph="{...}" />
-                <marker date="1547955321847" expanded="true" signature="376:956" ph="{...}" />
-                <marker date="1547955321847" expanded="true" signature="441:559" ph="{...}" />
-                <marker date="1547955321847" expanded="true" signature="605:789" ph="{...}" />
+                <marker date="1548001189835" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548001189835" expanded="true" signature="121:401" ph="{...}" />
+                <marker date="1548001189835" expanded="true" signature="297:318" ph="{...}" />
+                <marker date="1548001189835" expanded="true" signature="376:399" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/allGreen.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <marker date="1548001938510" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548001938510" expanded="true" signature="117:661" ph="{...}" />
+                <marker date="1548001938510" expanded="true" signature="256:277" ph="{...}" />
+                <marker date="1548001938510" expanded="true" signature="335:659" ph="{...}" />
+                <marker date="1548001938510" expanded="true" signature="387:544" ph="{...}" />
+                <marker date="1548001938510" expanded="true" signature="476:534" ph="{...}" />
+                <marker date="1548001938510" expanded="true" signature="597:653" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/resizeWithLeftController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <marker date="1547959319419" expanded="false" signature="6:78" ph="..." />
-                <marker date="1547959319419" expanded="true" signature="133:589" ph="{...}" />
-                <marker date="1547959319419" expanded="true" signature="233:254" ph="{...}" />
-                <marker date="1547959319419" expanded="true" signature="312:587" ph="{...}" />
-                <marker date="1547959319419" expanded="true" signature="359:451" ph="{...}" />
-                <marker date="1547959319419" expanded="true" signature="489:581" ph="{...}" />
+                <marker date="1548002142394" expanded="true" signature="6:128" ph="..." />
+                <marker date="1548002142394" expanded="true" signature="182:1014" ph="{...}" />
+                <marker date="1548002142394" expanded="true" signature="322:343" ph="{...}" />
+                <marker date="1548002142394" expanded="true" signature="401:1012" ph="{...}" />
+                <marker date="1548002142394" expanded="true" signature="449:541" ph="{...}" />
+                <marker date="1548002142394" expanded="true" signature="579:671" ph="{...}" />
+                <marker date="1548002142394" expanded="true" signature="713:997" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -333,6 +350,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/ImportGltf.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/fishSwimAway.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/allGreen.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/resizeWithLeftController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/tbt/Brushes/Basic/ChromaticWave/ChromaticWave.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/changeColorOnEnter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -340,9 +358,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/fishSwimAway.cs" />
-        <option value="$PROJECT_DIR$/Assets/resizeWithLeftController.cs" />
         <option value="$PROJECT_DIR$/Assets/changeColorOnEnter.cs" />
+        <option value="$PROJECT_DIR$/Assets/fishSwimAway.cs" />
+        <option value="$PROJECT_DIR$/Assets/allGreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/resizeWithLeftController.cs" />
       </list>
     </option>
   </component>
@@ -362,14 +381,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,11 +436,12 @@
       <updated>1547945693432</updated>
       <workItem from="1547945694608" duration="715000" />
       <workItem from="1547947870359" duration="6554000" />
+      <workItem from="1548000263510" duration="1959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7269000" />
+    <option name="totallyTimeSpent" value="9228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,6 +454,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -485,6 +506,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/tbt/Brushes/Basic/ChromaticWave/ChromaticWave.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540915645000" expanded="true" signature="0:587" ph="/* Copyright 2017 Google Inc. ... */" />
+            <marker date="1540915645000" expanded="true" signature="627:3464" ph="{...}" />
+            <marker date="1540915645000" expanded="true" signature="640:696" ph="{...}" />
+            <marker date="1540915645000" expanded="true" signature="707:3462" ph="{...}" />
+            <marker date="1540915645000" expanded="true" signature="957:3460" ph="{...}" />
+            <marker date="1540915645000" expanded="true" signature="968:3456" ph="{...}" />
+            <marker date="1540915645000" expanded="true" signature="986:3445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/ImportGltf.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-990">
@@ -749,63 +785,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PolyToolkit/Internal/tbt/Brushes/Basic/ChromaticWave/ChromaticWave.shader">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1540915645000" expanded="true" signature="0:587" ph="/* Copyright 2017 Google Inc. ... */" />
-            <marker date="1540915645000" expanded="true" signature="627:3464" ph="{...}" />
-            <marker date="1540915645000" expanded="true" signature="640:696" ph="{...}" />
-            <marker date="1540915645000" expanded="true" signature="707:3462" ph="{...}" />
-            <marker date="1540915645000" expanded="true" signature="957:3460" ph="{...}" />
-            <marker date="1540915645000" expanded="true" signature="968:3456" ph="{...}" />
-            <marker date="1540915645000" expanded="true" signature="986:3445" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/fishSwimAway.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <marker date="1547955321847" expanded="false" signature="6:78" ph="..." />
-            <marker date="1547955321847" expanded="true" signature="121:958" ph="{...}" />
-            <marker date="1547955321847" expanded="true" signature="297:318" ph="{...}" />
-            <marker date="1547955321847" expanded="true" signature="376:956" ph="{...}" />
-            <marker date="1547955321847" expanded="true" signature="441:559" ph="{...}" />
-            <marker date="1547955321847" expanded="true" signature="605:789" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/resizeWithLeftController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <marker date="1547959319419" expanded="false" signature="6:78" ph="..." />
-            <marker date="1547959319419" expanded="true" signature="133:589" ph="{...}" />
-            <marker date="1547959319419" expanded="true" signature="233:254" ph="{...}" />
-            <marker date="1547959319419" expanded="true" signature="312:587" ph="{...}" />
-            <marker date="1547959319419" expanded="true" signature="359:451" ph="{...}" />
-            <marker date="1547959319419" expanded="true" signature="489:581" ph="{...}" />
+            <marker date="1548001189835" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548001189835" expanded="true" signature="121:401" ph="{...}" />
+            <marker date="1548001189835" expanded="true" signature="297:318" ph="{...}" />
+            <marker date="1548001189835" expanded="true" signature="376:399" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/changeColorOnEnter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="255">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
-            <marker date="1547959561786" expanded="false" signature="6:78" ph="..." />
+            <marker date="1547959561786" expanded="false" signature="6:94" ph="..." />
             <marker date="1547959561786" expanded="true" signature="143:743" ph="{...}" />
             <marker date="1547959561786" expanded="true" signature="260:360" ph="{...}" />
             <marker date="1547959561786" expanded="true" signature="379:488" ph="{...}" />
             <marker date="1547959561786" expanded="true" signature="426:482" ph="{...}" />
             <marker date="1547959561786" expanded="true" signature="576:651" ph="{...}" />
             <marker date="1547959561786" expanded="true" signature="699:740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/allGreen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1548001938510" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548001938510" expanded="true" signature="117:661" ph="{...}" />
+            <marker date="1548001938510" expanded="true" signature="256:277" ph="{...}" />
+            <marker date="1548001938510" expanded="true" signature="335:659" ph="{...}" />
+            <marker date="1548001938510" expanded="true" signature="387:544" ph="{...}" />
+            <marker date="1548001938510" expanded="true" signature="476:534" ph="{...}" />
+            <marker date="1548001938510" expanded="true" signature="597:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/resizeWithLeftController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1548002142394" expanded="true" signature="6:128" ph="..." />
+            <marker date="1548002142394" expanded="true" signature="182:1014" ph="{...}" />
+            <marker date="1548002142394" expanded="true" signature="322:343" ph="{...}" />
+            <marker date="1548002142394" expanded="true" signature="401:1012" ph="{...}" />
+            <marker date="1548002142394" expanded="true" signature="449:541" ph="{...}" />
+            <marker date="1548002142394" expanded="true" signature="579:671" ph="{...}" />
+            <marker date="1548002142394" expanded="true" signature="713:997" ph="{...}" />
           </folding>
         </state>
       </provider>
