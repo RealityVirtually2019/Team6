@@ -8,10 +8,13 @@ public class changeColorOnEnter : MonoBehaviour
     private Color pre = Color.red;
     private Color post = Color.green;
     Material m_Material;
+
+    private bool hasBeenGreened = false;
     void Start()
     {
         m_Material = GetComponent<Renderer>().material;
         m_Material.color = pre;
+        hasBeenGreened = false;
     }
 
     void Update()
@@ -19,19 +22,24 @@ public class changeColorOnEnter : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R))
         {
             m_Material.color = pre;
+            hasBeenGreened = false;
+
         }
     }
 
     // Update is called once per frame
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("entered");
+        
         m_Material.color = post;
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        Debug.Log("exited");
+        if (hasBeenGreened == false)
+        {
+            Debug.Log("ACQ out of 69");
+            hasBeenGreened = true;
+            AudioSource audd = GetComponent<AudioSource>();
+            audd.Play();
+        }
+        
     }
 
 }

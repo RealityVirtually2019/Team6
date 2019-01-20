@@ -11,6 +11,12 @@
         <e p="changeColorOnEnter.cs" t="Include" />
         <e p="ControllerMakesPoints.cs" t="Include" />
         <e p="fishSwimAway.cs" t="Include" />
+        <e p="FullTiltBoogie" t="Include">
+          <e p="Helpers" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="RotateFlareHolder.cs" t="Include" />
+        </e>
         <e p="Poly" t="Include">
           <e p="Resources" t="Include">
             <e p="PolyAttributions.txt" t="Include" />
@@ -20,6 +26,9 @@
               <e p="FileNameMapping.txt" t="Include" />
             </e>
             <e p="Paintbrush_Poly_by_Google_cEH5v5HWqt9" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="Terrain_rough_Miguelangelo_Rosario_2vy4gFPKZMl" t="Include">
               <e p="FileNameMapping.txt" t="Include" />
             </e>
           </e>
@@ -267,6 +276,8 @@
           </e>
         </e>
         <e p="resizeWithLeftController.cs" t="Include" />
+        <e p="showAtSpeed.cs" t="Include" />
+        <e p="showVFXonEnter.cs" t="Include" />
         <e p="SteamVR" t="Include">
           <e p="Extras" t="Include">
             <e p="SteamVR_GazeTracker.cs" t="Include" />
@@ -529,6 +540,7 @@
           <e p="SteamVR_Input_Actions.cs" t="Include" />
           <e p="SteamVR_Input_ActionSets.cs" t="Include" />
         </e>
+        <e p="subtitleToggler.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
